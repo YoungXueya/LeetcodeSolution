@@ -2,8 +2,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-class Solution {
-    public int removeDuplicates(int[] A) {
+
+public class RemoveDuplicatesfromSortedArray {
+    public static int removeDuplicates(int[] A) {
         int n=A.length;
         if (n<2) return n;
         int id=1;
@@ -12,9 +13,7 @@ class Solution {
         }
         return id;
     }
-}
 
-public class RemoveDuplicatesfromSortedArray {
     public static int[] stringToIntegerArray(String input) {
         input = input.trim();
         input = input.substring(1, input.length() - 1);
@@ -54,10 +53,11 @@ public class RemoveDuplicatesfromSortedArray {
         while ((line = in.readLine()) != null) {
             int[] nums = stringToIntegerArray(line);
 
-            int ret = new Solution().removeDuplicates(nums);
+            int ret = removeDuplicates(nums);
             String out = integerArrayToString(nums, ret);
 
             System.out.print(out);
         }
     }
+
 }
