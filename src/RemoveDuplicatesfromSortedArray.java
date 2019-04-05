@@ -1,26 +1,20 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.HashMap;
 
 class Solution {
-    public int[] twoSum(int[] nums, int target) {
-        HashMap<Integer,Integer> map=new HashMap();
-        int[] result={0,0};
-        for(int i=0;i<nums.length;i++){
-            if(map.containsKey(target-nums[i])){
-                result[0]=map.get(target-nums[i]);
-                result[1]=i;
-                return result;
-            }else{
-                map.put(nums[i],i);
-            }
+    public int removeDuplicates(int[] A) {
+        int n=A.length;
+        if (n<2) return n;
+        int id=1;
+        for(int i=1;i<n;i++){
+            if(A[i]!=A[i-1]) A[id++]=A[i];
         }
-        return result;
+        return id;
     }
 }
 
-public class TwoSum {
+public class RemoveDuplicatesfromSortedArray {
     public static int[] stringToIntegerArray(String input) {
         input = input.trim();
         input = input.substring(1, input.length() - 1);
@@ -59,12 +53,9 @@ public class TwoSum {
         String line;
         while ((line = in.readLine()) != null) {
             int[] nums = stringToIntegerArray(line);
-            line = in.readLine();
-            int target = Integer.parseInt(line);
 
-            int[] ret = new Solution().twoSum(nums, target);
-
-            String out = integerArrayToString(ret);
+            int ret = new Solution().removeDuplicates(nums);
+            String out = integerArrayToString(nums, ret);
 
             System.out.print(out);
         }
