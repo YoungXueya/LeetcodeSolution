@@ -1,5 +1,5 @@
 # LeetcodeSolution
-|[1. Two Sum](https://leetcode.com/problems/two-sum/)|Solution(https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/TwoSum.java)|
+|[1. Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/TwoSum.java)|
 |[2. Add Two numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/2.%20Add%20two%20numbers)|
 
 
