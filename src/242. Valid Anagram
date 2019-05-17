@@ -1,0 +1,3 @@
+class Solution:
+    def isAnagram1(self, s: str, t: str) -> bool:
+        return collections.Counter(s) == collections.Counter(t)
