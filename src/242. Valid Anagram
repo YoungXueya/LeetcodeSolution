@@ -1,3 +1,33 @@
 class Solution:
-    def isAnagram1(self, s: str, t: str) -> bool:
+    def isAnagram(self, s: str, t: str) -> bool:
         return collections.Counter(s) == collections.Counter(t)
+
+def stringToString(input):
+    import json
+
+    return json.loads(input)
+
+def main():
+    import sys
+    import io
+    def readlines():
+        for line in io.TextIOWrapper(sys.stdin.buffer, encoding='utf-8'):
+            yield line.strip('\n')
+
+    lines = readlines()
+    while True:
+        try:
+            line = next(lines)
+            s = stringToString(line);
+            line = next(lines)
+            t = stringToString(line);
+            
+            ret = Solution().isAnagram(s, t)
+
+            out = (ret);
+            print(out)
+        except StopIteration:
+            break
+
+if __name__ == '__main__':
+    main()
