@@ -1,9 +1,29 @@
 class Solution:
-    #2-pass solution
+    #Dutch Partition problem: https://blog.csdn.net/SunnyYoona/article/details/43488481
+    #1-pass put bigger in the end, smaller in the hear,middle just kept unmove
     def sortColors(self, nums: List[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
-        """        
+        """   
+        head,cur,end=0,0,len(nums)-1
+        while cur<=end:
+            if nums[cur]==0:
+                nums[head],nums[cur]=nums[cur],nums[head]
+                head+=1
+                cur+=1                
+            elif nums[cur]==2:
+                nums[end],nums[cur]=nums[cur],nums[end]
+                end-=1
+            else:
+                cur+=1
+            print(nums)
+    
+
+    # two pass: count sort and rearrange
+    def sortColors2(self, nums: List[int]) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
         count=[0]*3
         for i in range(len(nums)):
             count[nums[i]]+=1
@@ -12,7 +32,7 @@ class Solution:
             for j in range(count[i]):
                 nums[index]=i
                 index+=1
-        
+    
         
             
         
