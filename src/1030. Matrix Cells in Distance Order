@@ -1,0 +1,11 @@
+class Solution:
+    def allCellsDistOrder(self, R: int, C: int, r0: int, c0: int) -> List[List[int]]:
+        r=0
+        c=0
+        result=[]
+        for r in range(R):
+            for c in range(C):
+                result.append([r,c])
+        result.sort(key=lambda cell:abs(cell[0]-r0)+abs(cell[1]-c0))
+        return result
+        
