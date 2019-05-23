@@ -4,6 +4,9 @@
 #         self.val = x
 #         self.next = None
 
+
+# This problem requires  O(n log n) time 
+#Thus uses merge sort compare with 147 using insertion sort
 class Solution:
     def merge(self,left:ListNode, right:ListNode):
         p=dummy=ListNode(-1)
