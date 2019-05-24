@@ -1,0 +1,13 @@
+#j是无重复的最近index
+#如果重复了，则更新j为重复后的第一个index
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        Dict={}
+        res=0
+        j=0
+        for i in range(len(s)):
+            if s[i] in Dict.keys():
+                j=max(j,Dict[s[i]]+1)      
+            res=max(res,i-j+1)    
+            Dict[s[i]]=i
+        return res
