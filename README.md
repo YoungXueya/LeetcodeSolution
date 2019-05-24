@@ -3,6 +3,7 @@
 | ------ | ------ |
 |[1. Two Sum](https://leetcode.com/problems/two-sum/)|[JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/TwoSum.java)|
 |[2. Add Two numbers](https://leetcode.com/problems/add-two-numbers/)|[JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/2.%20Add%20two%20numbers)|
+|[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/7.%20Reverse%20Integer)|
 |[15. Three Sum](https://leetcode.com/problems/3sum/)|[JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/ThreeSum.java)|
 |[18. Four sum](https://leetcode.com/problems/4sum/)|[JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/TwoSum.java)|
 |[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/21.%20Merge%20Two%20Sorted%20Lists)|
