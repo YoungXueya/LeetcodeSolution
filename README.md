@@ -6,6 +6,7 @@
 |[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/3.%20Longest%20Substring%20Without%20Repeating%20Characters)|
 |[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/4.%20Median%20of%20Two%20Sorted%20Arrays.py)|
 |[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/7.%20Reverse%20Integer)|
+|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/9.%20Palindrome%20Number.py)|
 |[15. Three Sum](https://leetcode.com/problems/3sum/)|[JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/ThreeSum.java)|
 |[18. Four sum](https://leetcode.com/problems/4sum/)|[JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/TwoSum.java)|
 |[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/21.%20Merge%20Two%20Sorted%20Lists)|
