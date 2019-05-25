@@ -9,6 +9,7 @@
 |[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/9.%20Palindrome%20Number.py)|
 |[15. Three Sum](https://leetcode.com/problems/3sum/)|[JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/ThreeSum.java)|
 |[18. Four sum](https://leetcode.com/problems/4sum/)|[JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/TwoSum.java)|
+|[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/20.%20Valid%20Parentheses.py)|
 |[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/21.%20Merge%20Two%20Sorted%20Lists)|
 |[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/RemoveDuplicatesfromSortedArray.java)|
 |[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/56.%20Merge%20Intervals)|
