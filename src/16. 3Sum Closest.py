@@ -1,5 +1,7 @@
 class Solution:
     # @return an integer
+    #just like 3-sum,O(n^2) times
+    #need to mark the cloest result
     def threeSumClosest(self, nums, target):
         nums.sort()
         result=nums[0]+nums[1]+nums[2]
