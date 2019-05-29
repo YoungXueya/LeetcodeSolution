@@ -14,6 +14,7 @@
 |[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/20.%20Valid%20Parentheses.py)|
 |[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/21.%20Merge%20Two%20Sorted%20Lists)|
 |[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/RemoveDuplicatesfromSortedArray.java)|
+|[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/53.%20Maximum%20Subarray.py)|
 |[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/56.%20Merge%20Intervals)|
 |[75. Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/75.%20Sort%20Colors)|
 |[147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/147.%20Insertion%20Sort%20List)|
