@@ -14,6 +14,7 @@
 |[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/20.%20Valid%20Parentheses.py)|
 |[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/21.%20Merge%20Two%20Sorted%20Lists)|
 |[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/RemoveDuplicatesfromSortedArray.java)|
+|[38. Count and Say](https://leetcode.com/problems/count-and-say/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/38.%20Count%20and%20Say.py)|
 |[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/53.%20Maximum%20Subarray.py)|
 |[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/56.%20Merge%20Intervals)|
 |[75. Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/75.%20Sort%20Colors)|
