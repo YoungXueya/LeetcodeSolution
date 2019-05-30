@@ -17,6 +17,7 @@
 |[38. Count and Say](https://leetcode.com/problems/count-and-say/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/38.%20Count%20and%20Say.py)|
 |[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/53.%20Maximum%20Subarray.py)|
 |[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/56.%20Merge%20Intervals)|
+|[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/58.%20Length%20of%20Last%20Word.py)|
 |[75. Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/75.%20Sort%20Colors)|
 |[147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/147.%20Insertion%20Sort%20List)|
 |[148. Sort List](https://leetcode.com/problems/sort-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/148.%20Sort%20List)|
