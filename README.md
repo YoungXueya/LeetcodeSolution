@@ -25,6 +25,7 @@
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](https://leetcode.com/problems/merge-sorted-array/)|
 |[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/118.%20Pascal's%20Triangle.py)|
 |[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/119.%20Pascal's%20Triangle%20II.py)|
+|[136. Single Number](https://leetcode.com/problems/single-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/136.%20Single%20Number.py)|
 |[147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/147.%20Insertion%20Sort%20List)|
 |[148. Sort List](https://leetcode.com/problems/sort-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/148.%20Sort%20List)|
 |[179. Largest Number](https://leetcode.com/problems/largest-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/179.%20Largest%20Number)|
