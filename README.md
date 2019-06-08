@@ -35,6 +35,7 @@
 |[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/242.%20Valid%20Anagram)|
 |[274. H-Index](https://leetcode.com/problems/h-index/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/274.%20H-Index)|
 |[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/283.%20Move%20Zeroes.py)|
+|[290. Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/290.%20Word%20Pattern.py)|
 |[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/349.%20Intersection%20of%20Two%20Arrays.py)|
 |[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/350.%20Intersection%20of%20Two%20Arrays%20II)|
 |[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/746.%20Min%20Cost%20Climbing%20Stairs.py)|
