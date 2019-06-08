@@ -2,6 +2,7 @@ class Solution:
     # Consider situation:
     # 1. Length of pattern and str is different
     # 2. "abba" and "dog dog dog dog"
+    # Same as https://leetcode.com/problems/isomorphic-strings/, a bit complex, using split.
     def wordPattern(self, pattern: str, str: str) -> bool:
         mapping={}
         list=str.split()
