@@ -29,6 +29,7 @@
 |[147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/147.%20Insertion%20Sort%20List)|
 |[148. Sort List](https://leetcode.com/problems/sort-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/148.%20Sort%20List)|
 |[179. Largest Number](https://leetcode.com/problems/largest-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/179.%20Largest%20Number)|
+|[202. Happy Number](https://leetcode.com/problems/happy-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/202.%20Happy%20Number.py)|
 |[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/217.%20Contains%20Duplicate)|
 |[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/submissions/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/219.%20Contains%20Duplicate%20II)|
 |[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/242.%20Valid%20Anagram)|
