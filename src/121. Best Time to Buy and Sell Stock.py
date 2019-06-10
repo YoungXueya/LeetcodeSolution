@@ -1,5 +1,6 @@
 class Solution:
-    
+    # Kadane's Algorithm.
+    # If the maxCur<0, means that the curVal is less than the lastMinValue
     def maxProfit(self, prices: List[int]) -> int:
         maxCur,maxSoFar=0,0
         for i in range(1,len(prices)):
