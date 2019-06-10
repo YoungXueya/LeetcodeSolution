@@ -19,6 +19,7 @@
 |[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/56.%20Merge%20Intervals)|
 |[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/58.%20Length%20of%20Last%20Word.py)|
 |[66. Plus One](https://leetcode.com/problems/plus-one/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/66.%20Plus%20One.py)|
+|[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/69.%20Sqrt(x).py)|
 |[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/70.%20Climbing%20Stairs.py)|
 |[75. Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/75.%20Sort%20Colors)|
 |[83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)|
