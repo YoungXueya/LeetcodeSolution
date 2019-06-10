@@ -27,6 +27,7 @@
 |[100. Same Tree](https://leetcode.com/problems/same-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/100.%20Same%20Tree.py)|
 |[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/118.%20Pascal's%20Triangle.py)|
 |[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/119.%20Pascal's%20Triangle%20II.py)|
+|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|
 |[136. Single Number](https://leetcode.com/problems/single-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/136.%20Single%20Number.py)|
 |[147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/147.%20Insertion%20Sort%20List)|
 |[148. Sort List](https://leetcode.com/problems/sort-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/148.%20Sort%20List)|
