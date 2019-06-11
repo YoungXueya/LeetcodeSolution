@@ -18,6 +18,7 @@
 |[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/53.%20Maximum%20Subarray.py)|
 |[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/56.%20Merge%20Intervals)|
 |[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/58.%20Length%20of%20Last%20Word.py)|
+|[62. Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/62.%20Unique%20Paths.py)|
 |[66. Plus One](https://leetcode.com/problems/plus-one/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/66.%20Plus%20One.py)|
 |[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/69.%20Sqrt(x).py)|
 |[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/70.%20Climbing%20Stairs.py)|
