@@ -29,6 +29,7 @@
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](https://leetcode.com/problems/merge-sorted-array/)|
 |[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/96.%20Unique%20Binary%20Search%20Trees.py)|
 |[100. Same Tree](https://leetcode.com/problems/same-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/100.%20Same%20Tree.py)|
+|[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/101.%20Symmetric%20Tree.py)|
 |[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/118.%20Pascal's%20Triangle.py)|
 |[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/119.%20Pascal's%20Triangle%20II.py)|
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|
