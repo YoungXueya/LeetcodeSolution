@@ -45,6 +45,7 @@
 |[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/submissions/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/219.%20Contains%20Duplicate%20II)|
 |[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/242.%20Valid%20Anagram)|
 |[274. H-Index](https://leetcode.com/problems/h-index/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/274.%20H-Index)|
+|[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/279.%20Perfect%20Squares.py)|
 |[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/283.%20Move%20Zeroes.py)|
 |[290. Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/290.%20Word%20Pattern.py)|
 |[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/349.%20Intersection%20of%20Two%20Arrays.py)|
