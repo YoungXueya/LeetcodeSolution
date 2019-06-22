@@ -30,6 +30,7 @@
 |[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/96.%20Unique%20Binary%20Search%20Trees.py)|
 |[100. Same Tree](https://leetcode.com/problems/same-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/100.%20Same%20Tree.py)|
 |[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/101.%20Symmetric%20Tree.py)|
+|[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/102.%20Binary%20Tree%20Level%20Order%20Traversal.py)|
 |[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)|
 |[107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.py)|
 |[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/118.%20Pascal's%20Triangle.py)|
