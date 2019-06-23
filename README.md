@@ -40,6 +40,7 @@
 |[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)|
 |[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/125.%20Valid%20Palindrome.py)|
 |[136. Single Number](https://leetcode.com/problems/single-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/136.%20Single%20Number.py)|
+|[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/141.%20Linked%20List%20Cycle.py)|
 |[147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/147.%20Insertion%20Sort%20List)|
 |[148. Sort List](https://leetcode.com/problems/sort-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/148.%20Sort%20List)|
 |[169. Majority Element](https://leetcode.com/problems/majority-element/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/169.%20Majority%20Element.py)|
