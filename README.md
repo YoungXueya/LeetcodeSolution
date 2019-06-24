@@ -8,6 +8,7 @@
 |[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/5.%20Longest%20Palindromic%20Substring.py)|
 |[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/7.%20Reverse%20Integer)|
 |[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/9.%20Palindrome%20Number.py)|
+|[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/14.%20Longest%20Common%20Prefix.py)|
 |[15. Three Sum](https://leetcode.com/problems/3sum/)|[JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/ThreeSum.java)|
 |[16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/16.%203Sum%20Closest.py)|
 |[18. Four sum](https://leetcode.com/problems/4sum/)|[JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/TwoSum.java)|
