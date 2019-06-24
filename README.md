@@ -43,6 +43,7 @@
 |[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/141.%20Linked%20List%20Cycle.py)|
 |[147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/147.%20Insertion%20Sort%20List)|
 |[148. Sort List](https://leetcode.com/problems/sort-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/148.%20Sort%20List)|
+|[160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/160.%20Intersection%20of%20Two%20Linked%20Lists.py)|
 |[169. Majority Element](https://leetcode.com/problems/majority-element/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/169.%20Majority%20Element.py)|
 |[171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/171.%20Excel%20Sheet%20Column%20Number.py)|
 |[179. Largest Number](https://leetcode.com/problems/largest-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/179.%20Largest%20Number)|
