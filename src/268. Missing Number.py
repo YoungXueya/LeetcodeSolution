@@ -7,7 +7,7 @@ class Solution(object):
         for i in range(len(nums)+1):
             if i not in Set:
                 return i
-            
+    # Mathematics is great!   
     def missingNumber1(self, nums):
         """
         :type nums: List[int]
