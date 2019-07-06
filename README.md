@@ -66,7 +66,7 @@
 |[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/283.%20Move%20Zeroes.py)|
 |[290. Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/290.%20Word%20Pattern.py)|
 |[322. Coin Change](https://leetcode.com/problems/coin-change/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/322.%20Coin%20Change.py)|
-|328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/328.%20Odd%20Even%20Linked%20List.py)|
+|[328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/328.%20Odd%20Even%20Linked%20List.py)|
 |[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/349.%20Intersection%20of%20Two%20Arrays.py)|
 |[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/350.%20Intersection%20of%20Two%20Arrays%20II)|
 |[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/387.%20First%20Unique%20Character%20in%20a%20String.py)|
