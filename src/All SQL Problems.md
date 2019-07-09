@@ -11,7 +11,10 @@ SET M=N-1;
   );
 END
 ```
-
+### 182. Duplicate Emails
+```
+select Email from Person group by Email having count(*)>1; 
+```
 ### 183. Customers Who Never Order
 ```
 //Write your MySQL query statement below
