@@ -82,5 +82,5 @@
 |[1025. Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/tree/master/src)|
 |[1030. Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1030.%20Matrix%20Cells%20in%20Distance%20Order)|
 
-## Mysql
-|[177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[MYSQL](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/177.%20Nth%20Highest%20Salary.sql)|
+## [Mysql Questions](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/All%20SQL%20Problems.md)
+
