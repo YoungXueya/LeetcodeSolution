@@ -81,3 +81,6 @@
 |[1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.py)|
 |[1025. Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/tree/master/src)|
 |[1030. Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1030.%20Matrix%20Cells%20in%20Distance%20Order)|
+
+## Mysql
+|[177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[MYSQL](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/177.%20Nth%20Highest%20Salary.sql)|
