@@ -1,4 +1,5 @@
 ## 177. Nth Highest Salary.sql
+```
 CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
 BEGIN
 DECLARE M INT;
@@ -9,6 +10,7 @@ SET M=N-1;
       select Distinct Salary  from employee order BY Salary DESC  limit M,1
   );
 END
+```
 
 ##183. Customers Who Never Order
 //Write your MySQL query statement below
