@@ -1,4 +1,4 @@
-## 177. Nth Highest Salary.sql
+### 177. Nth Highest Salary.sql
 ```
 CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
 BEGIN
@@ -12,7 +12,7 @@ SET M=N-1;
 END
 ```
 
-##183. Customers Who Never Order
+### 183. Customers Who Never Order
 ```
 //Write your MySQL query statement below
 select  Customers.name as Customers from Customers
