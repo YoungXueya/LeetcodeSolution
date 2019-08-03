@@ -65,6 +65,7 @@
 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/206.%20Reverse%20Linked%20List.py)|
 |[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/217.%20Contains%20Duplicate)|
 |[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/submissions/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/219.%20Contains%20Duplicate%20II)|
+|226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/226.%20Invert%20Binary%20Tree.py)|
 |[234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/234.%20Palindrome%20Linked%20List.py)|
 |[237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/237.%20Delete%20Node%20in%20a%20Linked%20List.py)|
 |[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/242.%20Valid%20Anagram)|
