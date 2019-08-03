@@ -31,6 +31,7 @@
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](https://leetcode.com/problems/merge-sorted-array/)|
 |[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/94.%20Binary%20Tree%20Inorder%20Traversal.py)|
 |[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/96.%20Unique%20Binary%20Search%20Trees.py)|
+|[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/98.%20Validate%20Binary%20Search%20Tree.py)|
 |[100. Same Tree](https://leetcode.com/problems/same-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/100.%20Same%20Tree.py)|
 |[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/101.%20Symmetric%20Tree.py)|
 |[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/102.%20Binary%20Tree%20Level%20Order%20Traversal.py)|
