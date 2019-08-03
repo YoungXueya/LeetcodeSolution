@@ -46,6 +46,7 @@
 |[136. Single Number](https://leetcode.com/problems/single-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/136.%20Single%20Number.py)|
 |[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/141.%20Linked%20List%20Cycle.py)|
 |[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/144.%20Binary%20Tree%20Preorder%20Traversal.py)|
+|[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/145.%20Binary%20Tree%20Postorder%20Traversal.py)|
 |[147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/147.%20Insertion%20Sort%20List)|
 |[148. Sort List](https://leetcode.com/problems/sort-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/148.%20Sort%20List)|
 |[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/151.%20Reverse%20Words%20in%20a%20String.py)|
