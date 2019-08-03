@@ -6,7 +6,8 @@
 #         self.right = None
 
 class Solution:
-    
+    # Mirror. input order: root,right,left
+    # reversed :left,right,root
     def postorderTraversal(self, root: TreeNode) -> List[int]:
         result=[]
         stack=[]
