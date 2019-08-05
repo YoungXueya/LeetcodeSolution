@@ -85,6 +85,8 @@
 |[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/5.%20Longest%20Palindromic%20Substring.py)|
 |[645. Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/645.%20Set%20Mismatch.py)|
 |[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/746.%20Min%20Cost%20Climbing%20Stairs.py)|
+|[788. Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/788.%20Rotated%20Digits.py)|
+|[849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/849.%20Maximize%20Distance%20to%20Closest%20Person.py)|
 |[922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/922.%20Sort%20Array%20By%20Parity%20II.py)|
 |[976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/976.%20Largest%20Perimeter%20Triangle)|
 |[1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.py)|
