@@ -96,6 +96,7 @@
 |[976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/976.%20Largest%20Perimeter%20Triangle)|
 |[1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.py)|
 |[1025. Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/tree/master/src)|
+|[1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1029.%20Two%20City%20Scheduling.py)|
 |[1030. Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1030.%20Matrix%20Cells%20in%20Distance%20Order)|
 
 ## [Mysql Questions](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/All%20SQL%20Problems.md)
