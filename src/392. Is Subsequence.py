@@ -9,7 +9,5 @@ class Solution:
             else:
                 countt+=1
         print(counts)
-        if counts==len(s):
-            return True
-        else:
-            return False
+        return counts==len(s)
+            
