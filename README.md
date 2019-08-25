@@ -93,6 +93,7 @@
 |[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/746.%20Min%20Cost%20Climbing%20Stairs.py)|
 |[788. Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/788.%20Rotated%20Digits.py)|
 |[849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/849.%20Maximize%20Distance%20to%20Closest%20Person.py)|
+|[877. Stone Game](https://leetcode.com/problems/stone-game/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/877.%20Stone%20Game.py)|
 |[922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/922.%20Sort%20Array%20By%20Parity%20II.py)|
 |[957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/957.%20Prison%20Cells%20After%20N%20Days.py)|
 |[973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/973.%20K%20Closest%20Points%20to%20Origin.py)|
