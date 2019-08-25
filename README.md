@@ -69,7 +69,7 @@
 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/206.%20Reverse%20Linked%20List.py)|
 |[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/217.%20Contains%20Duplicate)|
 |[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/submissions/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/219.%20Contains%20Duplicate%20II)|
-|226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/226.%20Invert%20Binary%20Tree.py)|
+|[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/226.%20Invert%20Binary%20Tree.py)|
 |[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/230.%20Kth%20Smallest%20Element%20in%20a%20BST.py)|
 |[234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/234.%20Palindrome%20Linked%20List.py)|
 |[237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/237.%20Delete%20Node%20in%20a%20Linked%20List.py)|
@@ -78,7 +78,7 @@
 |[274. H-Index](https://leetcode.com/problems/h-index/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/)|[Python](src/274.%20H-Index)|
 |[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/279.%20Perfect%20Squares.py)|
 |[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/283.%20Move%20Zeroes.py)|
-|287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/287.%20Find%20the%20Duplicate%20Number.py)|
+|[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/287.%20Find%20the%20Duplicate%20Number.py)|
 |[290. Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/290.%20Word%20Pattern.py)|
 |[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/303.%20Range%20Sum%20Query%20-%20Immutable.py
 |[322. Coin Change](https://leetcode.com/problems/coin-change/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/322.%20Coin%20Change.py)|
