@@ -44,6 +44,7 @@
 |[114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.py)|
 |[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/118.%20Pascal's%20Triangle.py)|
 |[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/119.%20Pascal's%20Triangle%20II.py)|
+|120. Triangle](https://leetcode.com/problems/triangle/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/120.%20Triangle.py)|
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|
 |[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)|
 |[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/125.%20Valid%20Palindrome.py)|
