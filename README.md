@@ -29,6 +29,7 @@
 |[75. Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/75.%20Sort%20Colors)|
 |[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)|
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](https://leetcode.com/problems/merge-sorted-array/)|
+|[91. Decode Ways](https://leetcode.com/problems/decode-ways/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/91.%20Decode%20Ways.py)|
 |[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/94.%20Binary%20Tree%20Inorder%20Traversal.py)|
 |[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/96.%20Unique%20Binary%20Search%20Trees.py)|
 |[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/98.%20Validate%20Binary%20Search%20Tree.py)|
