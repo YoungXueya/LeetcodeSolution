@@ -27,7 +27,7 @@
 |[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/69.%20Sqrt(x).py)|
 |[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/70.%20Climbing%20Stairs.py)|
 |[75. Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/75.%20Sort%20Colors)|
-|[83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)|
+|[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)|
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](https://leetcode.com/problems/merge-sorted-array/)|
 |[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/94.%20Binary%20Tree%20Inorder%20Traversal.py)|
 |[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/96.%20Unique%20Binary%20Search%20Trees.py)|
@@ -73,11 +73,12 @@
 |[237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/237.%20Delete%20Node%20in%20a%20Linked%20List.py)|
 |[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/242.%20Valid%20Anagram)|
 |[268. Missing Number](https://leetcode.com/problems/missing-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/268.%20Missing%20Number.py)|
-|[274. H-Index](https://leetcode.com/problems/h-index/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/274.%20H-Index)|
+|[274. H-Index](https://leetcode.com/problems/h-index/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/)|[Python](src/274.%20H-Index)|
 |[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/279.%20Perfect%20Squares.py)|
 |[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/283.%20Move%20Zeroes.py)|
 |287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/287.%20Find%20the%20Duplicate%20Number.py)|
 |[290. Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/290.%20Word%20Pattern.py)|
+|[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/303.%20Range%20Sum%20Query%20-%20Immutable.py
 |[322. Coin Change](https://leetcode.com/problems/coin-change/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/322.%20Coin%20Change.py)|
 |[328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/328.%20Odd%20Even%20Linked%20List.py)|
 |[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/349.%20Intersection%20of%20Two%20Arrays.py)|
