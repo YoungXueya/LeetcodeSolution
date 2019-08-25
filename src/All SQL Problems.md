@@ -82,7 +82,7 @@ Group By class
 Having count(DISTINCT student)>=5;
 ```
 
-###601. Human Traffic of Stadium
+### 601. Human Traffic of Stadium
 ```
 SELECT distinct S1.*
 from stadium S1,stadium S2,stadium S3 
