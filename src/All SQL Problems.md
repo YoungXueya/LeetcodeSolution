@@ -21,3 +21,9 @@ select Email from Person group by Email having count(*)>1;
 select  Customers.name as Customers from Customers
  where Customers.Id not in ( select distinct CustomerId from Orders);
  ```
+
+### 595. Big Countries
+```
+# Write your MySQL query statement below
+Select name,population, area from World where area>3000000 or population >25000000;
+```
