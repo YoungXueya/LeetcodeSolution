@@ -94,6 +94,7 @@
 |[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/5.%20Longest%20Palindromic%20Substring.py)|
 |[645. Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/645.%20Set%20Mismatch.py)|
 |[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/746.%20Min%20Cost%20Climbing%20Stairs.py)|
+|747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py)|
 |[788. Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/788.%20Rotated%20Digits.py)|
 |[849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/849.%20Maximize%20Distance%20to%20Closest%20Person.py)|
 |[877. Stone Game](https://leetcode.com/problems/stone-game/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/877.%20Stone%20Game.py)|
