@@ -80,7 +80,7 @@
 |[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/283.%20Move%20Zeroes.py)|
 |[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/287.%20Find%20the%20Duplicate%20Number.py)|
 |[290. Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/290.%20Word%20Pattern.py)|
-|[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/303.%20Range%20Sum%20Query%20-%20Immutable.py
+|[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/303.%20Range%20Sum%20Query%20-%20Immutable.py)
 |[322. Coin Change](https://leetcode.com/problems/coin-change/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/322.%20Coin%20Change.py)|
 |[328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/328.%20Odd%20Even%20Linked%20List.py)|
 |[338. Counting Bits](https://leetcode.com/problems/counting-bits/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/338.%20Counting%20Bits.py)|
