@@ -56,7 +56,7 @@
 | [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/147.%20Insertion%20Sort%20List) |                     |
 | [148. Sort List](https://leetcode.com/problems/sort-list/)   | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/148.%20Sort%20List) |                     |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/151.%20Reverse%20Words%20in%20a%20String.py) |                     |
-| [155. Min Stack](https://leetcode.com/problems/min-stack/)   | [python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/155. Min Stack.py) | Stack/Design        |
+| [155. Min Stack](https://leetcode.com/problems/min-stack/)   | [python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/155.%20Min%20Stack.py) | Stack/Design        |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/160.%20Intersection%20of%20Two%20Linked%20Lists.py) |                     |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/169.%20Majority%20Element.py) |                     |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/171.%20Excel%20Sheet%20Column%20Number.py) |                     |
