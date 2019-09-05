@@ -120,7 +120,7 @@ I hope I can continue this practice to make me think about questions continuousl
 
 | Question                                                     | Solution                                                     | Tag  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| [Stock Maximize](https://www.hackerrank.com/challenges/stockmax/problem) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/hackerrank/Stock Maximize.py) | DP   |
+| [Stock Maximize](https://www.hackerrank.com/challenges/stockmax/problem) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/hackerrank/Stock%20Maximize.py) | DP   |
 
 
 
