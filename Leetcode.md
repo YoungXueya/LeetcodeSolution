@@ -1,4 +1,7 @@
-# LeetcodeSolution
+I hope I can continue this practice to make me think about questions continuously!  Click the big [Leetcode](https://github.com/YoungXueya/LeetcodeSolution) to the project directly!
+
+# [LeetcodeSolution](https://github.com/YoungXueya/LeetcodeSolution/src)
+
 | Question                                                     | Solution                                                     | Tag                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------- |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/)         | [JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/TwoSum.java) |                     |
@@ -56,7 +59,7 @@
 | [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/147.%20Insertion%20Sort%20List) |                     |
 | [148. Sort List](https://leetcode.com/problems/sort-list/)   | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/148.%20Sort%20List) |                     |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/151.%20Reverse%20Words%20in%20a%20String.py) |                     |
-| [155. Min Stack](https://leetcode.com/problems/min-stack/)   | [python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/155.%20Min%20Stack.py) | Stack/Design        |
+| [155. Min Stack](https://leetcode.com/problems/min-stack/) | [python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/155. Min Stack.py) | Stack/Design |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/160.%20Intersection%20of%20Two%20Linked%20Lists.py) |                     |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/169.%20Majority%20Element.py) |                     |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/171.%20Excel%20Sheet%20Column%20Number.py) |                     |
@@ -82,34 +85,44 @@
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/283.%20Move%20Zeroes.py) |                     |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/287.%20Find%20the%20Duplicate%20Number.py) |                     |
 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/290.%20Word%20Pattern.py) |                     |
-| [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/303.%20Range%20Sum%20Query%20-%20Immutable.py) |                     |
-| [322. Coin Change](https://leetcode.com/problems/coin-change/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/322.%20Coin%20Change.py) |                     |
-| [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/328.%20Odd%20Even%20Linked%20List.py) |                     |
-| [337. House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/337.%20House%20Robber%20III.py) | Dynamic Programming |
-| [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/338.%20Counting%20Bits.py) |                     |
-| [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/349.%20Intersection%20of%20Two%20Arrays.py) |                     |
-| [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/350.%20Intersection%20of%20Two%20Arrays%20II) |                     |
-| [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/387.%20First%20Unique%20Character%20in%20a%20String.py) |                     |
-| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/392.%20Is%20Subsequence.py) |                     |
-| [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/409.%20Longest%20Palindrome.py) |                     |
-| [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/413.%20Arithmetic%20Slices.py) |                     |
-| [415. Add Strings](https://leetcode.com/problems/add-strings/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/415.%20Add%20Strings.py) |                     |
-| [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/5.%20Longest%20Palindromic%20Substring.py) |                     |
-| [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/645.%20Set%20Mismatch.py) |                     |
-| [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/746.%20Min%20Cost%20Climbing%20Stairs.py) |                     |
-| [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py) |                     |
-| [788. Rotated Digits](https://leetcode.com/problems/rotated-digits/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/788.%20Rotated%20Digits.py) |                     |
-| [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/849.%20Maximize%20Distance%20to%20Closest%20Person.py) |                     |
-| [877. Stone Game](https://leetcode.com/problems/stone-game/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/877.%20Stone%20Game.py) |                     |
-| [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/922.%20Sort%20Array%20By%20Parity%20II.py) |                     |
-| [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/931.%20Minimum%20Falling%20Path%20Sum.py) |                     |
-| [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/957.%20Prison%20Cells%20After%20N%20Days.py) |                     |
-| [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/973.%20K%20Closest%20Points%20to%20Origin.py) |                     |
-| [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/976.%20Largest%20Perimeter%20Triangle) |                     |
-| [1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.py) |                     |
-| [1025. Divisor Game](https://leetcode.com/problems/divisor-game/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/tree/master/src) |                     |
-| [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1029.%20Two%20City%20Scheduling.py) |                     |
-| [1030. Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1030.%20Matrix%20Cells%20in%20Distance%20Order) |                     |
-| [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1143.%20Longest%20Common%20Subsequence.py) |                     |
-## [Mysql Questions](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/All%20SQL%20Problems.md)
+|[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/303.%20Range%20Sum%20Query%20-%20Immutable.py)||
+|[322. Coin Change](https://leetcode.com/problems/coin-change/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/322.%20Coin%20Change.py)||
+|[328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/328.%20Odd%20Even%20Linked%20List.py)||
+|[337. House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/337.%20House%20Robber%20III.py)|Dynamic Programming|
+|[338. Counting Bits](https://leetcode.com/problems/counting-bits/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/338.%20Counting%20Bits.py)||
+|[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/349.%20Intersection%20of%20Two%20Arrays.py)||
+|[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/350.%20Intersection%20of%20Two%20Arrays%20II)||
+|[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/387.%20First%20Unique%20Character%20in%20a%20String.py)||
+|[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/392.%20Is%20Subsequence.py)||
+|[409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/409.%20Longest%20Palindrome.py)||
+|[413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/413.%20Arithmetic%20Slices.py)||
+|[415. Add Strings](https://leetcode.com/problems/add-strings/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/415.%20Add%20Strings.py)||
+|[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/5.%20Longest%20Palindromic%20Substring.py)||
+|[645. Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/645.%20Set%20Mismatch.py)||
+|[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/746.%20Min%20Cost%20Climbing%20Stairs.py)||
+|[747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py)||
+|[788. Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/788.%20Rotated%20Digits.py)||
+|[849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/849.%20Maximize%20Distance%20to%20Closest%20Person.py)||
+|[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python]([https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/852. Peak Index in a Mountain Array.py))|Binary Search|
+|[877. Stone Game](https://leetcode.com/problems/stone-game/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/877.%20Stone%20Game.py)||
+|[922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/922.%20Sort%20Array%20By%20Parity%20II.py)||
+|[931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/931.%20Minimum%20Falling%20Path%20Sum.py)||
+|[957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/957.%20Prison%20Cells%20After%20N%20Days.py)||
+|[973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/973.%20K%20Closest%20Points%20to%20Origin.py)||
+|[976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/976.%20Largest%20Perimeter%20Triangle)||
+|[1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.py)||
+|[1025. Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/tree/master/src)||
+|[1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1029.%20Two%20City%20Scheduling.py)||
+|[1030. Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1030.%20Matrix%20Cells%20in%20Distance%20Order)||
+|[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1143.%20Longest%20Common%20Subsequence.py)||
+
+# [Hackerrank](https://github.com/YoungXueya/LeetcodeSolution/tree/master/hackerrank)
+
+| Question                                                     | Solution                                                     | Tag  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [Stock Maximize](https://www.hackerrank.com/challenges/stockmax/problem) | [Python]([https://github.com/YoungXueya/LeetcodeSolution/blob/master/hackerrank/Stock%20Maximize.py](https://github.com/YoungXueya/LeetcodeSolution/blob/master/hackerrank/Stock Maximize.py)) | DP   |
+
+
+
+# [Mysql Questions](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/All%20SQL%20Problems.md)
 
