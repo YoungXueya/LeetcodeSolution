@@ -115,6 +115,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1029.%20Two%20City%20Scheduling.py)||
 |[1030. Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1030.%20Matrix%20Cells%20in%20Distance%20Order)||
 |[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1143.%20Longest%20Common%20Subsequence.py)||
+|[1169. Invalid Transactions](https://leetcode.com/problems/invalid-transactions/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1169.%20Invalid%20Transactions.py)||
 
 # [Hackerrank](https://github.com/YoungXueya/LeetcodeSolution/tree/master/hackerrank)
 
