@@ -120,6 +120,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[1025. Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/tree/master/src)||
 |[1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1029.%20Two%20City%20Scheduling.py)||
 |[1030. Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1030.%20Matrix%20Cells%20in%20Distance%20Order)||
+|https://leetcode.com/problems/height-checker/](https://leetcode.com/problems/height-checker/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1051.%20Height%20Checker.py)|
 |[1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1122.%20Relative%20Sort%20Array.py)|
 |[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1143.%20Longest%20Common%20Subsequence.py)||
 |[1169. Invalid Transactions](https://leetcode.com/problems/invalid-transactions/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1169.%20Invalid%20Transactions.py)||
