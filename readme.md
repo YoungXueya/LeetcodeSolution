@@ -108,6 +108,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/509.%20Fibonacci%20Number.py)|
 |[561. Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/561.%20Array%20Partition%20I.py)|
 |[645. Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/645.%20Set%20Mismatch.py)||
+|[700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/700.%20Search%20in%20a%20Binary%20Search%20Tree.py)|
 |[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/739.%20Daily%20Temperatures.py)|
 |[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/746.%20Min%20Cost%20Climbing%20Stairs.py)||
 |[747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py)||
