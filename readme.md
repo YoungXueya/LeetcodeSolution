@@ -73,6 +73,7 @@ I hope I can continue this practice to make me think about questions continuousl
 | [204. Count Primes](https://leetcode.com/problems/count-primes/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/204.%20Count%20Primes.py) |                     |
 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/205.%20Isomorphic%20Strings.py) |                     |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/206.%20Reverse%20Linked%20List.py) |                     |
+|[207. Course Schedule](https://leetcode.com/problems/course-schedule/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/207.%20Course%20Schedule.py)|
 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/213.%20House%20Robber%20II.py) | Dynamic Programming |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/217.%20Contains%20Duplicate) |                     |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/submissions/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/219.%20Contains%20Duplicate%20II) |                     |
