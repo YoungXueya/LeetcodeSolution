@@ -12,7 +12,7 @@ I hope I can continue this practice to make me think about questions continuousl
 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/7.%20Reverse%20Integer) |                     |
 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/9.%20Palindrome%20Number.py) |                     |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/14.%20Longest%20Common%20Prefix.py) |                     |
-| [15. Three Sum](https://leetcode.com/problems/3sum/)         | [JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/ThreeSum.java) |                     |
+| [15. Three Sum](https://leetcode.com/problems/3sum/)         | [JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/ThreeSum.java)[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/15.%203Sum.py) |                     |
 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/16.%203Sum%20Closest.py) |                     |
 |[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.py)|Two solution|
 | [18. Four sum](https://leetcode.com/problems/4sum/)          | [JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/TwoSum.java) |                     |
