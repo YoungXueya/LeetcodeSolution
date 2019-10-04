@@ -86,6 +86,7 @@ I hope I can continue this practice to make me think about questions continuousl
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/237.%20Delete%20Node%20in%20a%20Linked%20List.py) |                     |
 |[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/238.%20Product%20of%20Array%20Except%20Self.py)|
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/242.%20Valid%20Anagram) |                     |
+|[263. Ugly Number](https://leetcode.com/problems/ugly-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/263.%20Ugly%20Number.py)|
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/268.%20Missing%20Number.py) |                     |
 | [274. H-Index](https://leetcode.com/problems/h-index/)       | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/) |                     |
 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/279.%20Perfect%20Squares.py) |                     |
