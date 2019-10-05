@@ -29,7 +29,8 @@ I hope I can continue this practice to make me think about questions continuousl
 | [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/63.%20Unique%20Paths%20II.py) |                     |
 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/64.%20Minimum%20Path%20Sum.py) |                     |
 | [66. Plus One](https://leetcode.com/problems/plus-one/)      | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/66.%20Plus%20One.py) |                     |
-| [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)          | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/69.%20Sqrt(x).py) |                     |
+|[67. Add Binary](https://leetcode.com/problems/add-binary/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/67.%20Add%20Binary.py)|
+| [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)          | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/69.%20Sqrt(x).py) |  Binary Search                   |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/70.%20Climbing%20Stairs.py) |                     |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/75.%20Sort%20Colors) |                     |
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/83.%20Remove%20Duplicates%20from%20Sorted%20List.py) |                     |
