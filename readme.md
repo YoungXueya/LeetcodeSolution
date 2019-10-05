@@ -67,6 +67,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/162.%20Find%20Peak%20Element.py)|
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/169.%20Majority%20Element.py) |                     |
 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/171.%20Excel%20Sheet%20Column%20Number.py) |                     |
+|[172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/172.%20Factorial%20Trailing%20Zeroes.py)|
 | [179. Largest Number](https://leetcode.com/problems/largest-number/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/179.%20Largest%20Number) |                     |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/189.%20Rotate%20Array.py) |                     |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/198.%20House%20Robber.py) | Dynamic Programming |
