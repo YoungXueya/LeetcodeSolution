@@ -113,6 +113,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/445.%20Add%20Two%20Numbers%20II.py)|
 |[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/461.%20Hamming%20Distance.py)|
 |[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/5.%20Longest%20Palindromic%20Substring.py)||
+|[504. Base 7](https://leetcode.com/problems/base-7/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/504.%20Base%207.py)|
 |[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/509.%20Fibonacci%20Number.py)|
 |[561. Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/561.%20Array%20Partition%20I.py)|
 |[617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/617.%20Merge%20Two%20Binary%20Trees.py)|Tree|
