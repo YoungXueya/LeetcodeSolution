@@ -22,6 +22,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py)|
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/20.%20Valid%20Parentheses.py) |                     |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/21.%20Merge%20Two%20Sorted%20Lists) |                     |
+|22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/22.%20Generate%20Parentheses.py)|BackTrack|
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/RemoveDuplicatesfromSortedArray.java) |                     |
 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/38.%20Count%20and%20Say.py) |                     |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/53.%20Maximum%20Subarray.py) |                     |
