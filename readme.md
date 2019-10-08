@@ -138,6 +138,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/876.%20Middle%20of%20the%20Linked%20List.py)||
 |[877. Stone Game](https://leetcode.com/problems/stone-game/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/877.%20Stone%20Game.py)||
 |[922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/922.%20Sort%20Array%20By%20Parity%20II.py)||
+|[925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/925.%20Long%20Pressed%20Name.py)|Two Pointers|
 |[931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/931.%20Minimum%20Falling%20Path%20Sum.py)||
 |[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/938.%20Range%20Sum%20of%20BST.py)|
 |[957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/957.%20Prison%20Cells%20After%20N%20Days.py)||
