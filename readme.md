@@ -146,6 +146,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/965.%20Univalued%20Binary%20Tree.py)|
 |[973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/973.%20K%20Closest%20Points%20to%20Origin.py)||
 |[976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/976.%20Largest%20Perimeter%20Triangle)||
+|[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/977.%20Squares%20of%20a%20Sorted%20Array.py)|Two Pointers|
 |[989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/989.%20Add%20to%20Array-Form%20of%20Integer.py)|
 |[1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.py)||
 |[1025. Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/tree/master/src)||
