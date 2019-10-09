@@ -126,6 +126,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/509.%20Fibonacci%20Number.py)|
 |[561. Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/561.%20Array%20Partition%20I.py)|
 |[617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/617.%20Merge%20Two%20Binary%20Trees.py)|Tree|
+|[636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/636.%20Exclusive%20Time%20of%20Functions.py)|Stack|
 |[645. Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/645.%20Set%20Mismatch.py)||
 |[700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/700.%20Search%20in%20a%20Binary%20Search%20Tree.py)|
 |[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/739.%20Daily%20Temperatures.py)|
