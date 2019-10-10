@@ -142,6 +142,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/856.%20Score%20of%20Parentheses.py)|Stack|
 |[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/876.%20Middle%20of%20the%20Linked%20List.py)||
 |[877. Stone Game](https://leetcode.com/problems/stone-game/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/877.%20Stone%20Game.py)||
+|[880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/880.%20Decoded%20String%20at%20Index.py)|Stack|
 |[922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/922.%20Sort%20Array%20By%20Parity%20II.py)||
 |[925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/925.%20Long%20Pressed%20Name.py)|Two Pointers|
 |[931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/931.%20Minimum%20Falling%20Path%20Sum.py)||
