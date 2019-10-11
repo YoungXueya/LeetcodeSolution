@@ -117,6 +117,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/367.%20Valid%20Perfect%20Square.py)|
 |[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/387.%20First%20Unique%20Character%20in%20a%20String.py)||
 |[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/392.%20Is%20Subsequence.py)||
+|[394. Decode String](https://leetcode.com/problems/decode-string/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/394.%20Decode%20String.py)|Stack|
 |[409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/409.%20Longest%20Palindrome.py)||
 |[413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/413.%20Arithmetic%20Slices.py)||
 |[415. Add Strings](https://leetcode.com/problems/add-strings/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/415.%20Add%20Strings.py)||
