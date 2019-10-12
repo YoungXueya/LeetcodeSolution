@@ -169,6 +169,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1122.%20Relative%20Sort%20Array.py)|
 |[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1143.%20Longest%20Common%20Subsequence.py)||
 |[1169. Invalid Transactions](https://leetcode.com/problems/invalid-transactions/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1169.%20Invalid%20Transactions.py)||
+|[1190. Reverse Substrings Between Each Pair of Parentheses)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.py)|Stack|
 |[1208. Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1208.%20Get%20Equal%20Substrings%20Within%20Budget.py)|Sliding Window|
 # [Hackerrank](https://github.com/YoungXueya/LeetcodeSolution/tree/master/hackerrank)
 
