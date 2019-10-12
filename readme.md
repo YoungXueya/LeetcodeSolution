@@ -150,6 +150,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/925.%20Long%20Pressed%20Name.py)|Two Pointers|
 |[931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/931.%20Minimum%20Falling%20Path%20Sum.py)||
 |[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/938.%20Range%20Sum%20of%20BST.py)|
+|[946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/946.%20Validate%20Stack%20Sequences.py)|Stack|
 |[957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/957.%20Prison%20Cells%20After%20N%20Days.py)||
 |[965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/965.%20Univalued%20Binary%20Tree.py)|
 |[973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/973.%20K%20Closest%20Points%20to%20Origin.py)||
