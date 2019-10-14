@@ -26,6 +26,7 @@ I hope I can continue this practice to make me think about questions continuousl
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/RemoveDuplicatesfromSortedArray.java) |                     |
 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/38.%20Count%20and%20Say.py) |                     |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/53.%20Maximum%20Subarray.py) |                     |
+|[55. Jump Game](https://leetcode.com/problems/jump-game/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/55.%20Jump%20Game.py)|Greedy|
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/56.%20Merge%20Intervals) |                     |
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/58.%20Length%20of%20Last%20Word.py) |                     |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/61.%20Rotate%20List.py) |                     |
@@ -123,6 +124,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/413.%20Arithmetic%20Slices.py)||
 |[415. Add Strings](https://leetcode.com/problems/add-strings/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/415.%20Add%20Strings.py)||
 |[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/445.%20Add%20Two%20Numbers%20II.py)|
+|[455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/455.%20Assign%20Cookies.py)|Greedy|
 |[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/461.%20Hamming%20Distance.py)|
 |[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/5.%20Longest%20Palindromic%20Substring.py)||
 |[504. Base 7](https://leetcode.com/problems/base-7/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/504.%20Base%207.py)|
