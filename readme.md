@@ -144,6 +144,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/849.%20Maximize%20Distance%20to%20Closest%20Person.py)||
 |[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)|Binary Search|
 |[856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/856.%20Score%20of%20Parentheses.py)|Stack|
+|[860. Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/860.%20Lemonade%20Change.py)|
 |[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/876.%20Middle%20of%20the%20Linked%20List.py)||
 |[877. Stone Game](https://leetcode.com/problems/stone-game/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/877.%20Stone%20Game.py)||
 |[880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/880.%20Decoded%20String%20at%20Index.py)|Stack|
