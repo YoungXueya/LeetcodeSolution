@@ -26,6 +26,7 @@ I hope I can continue this practice to make me think about questions continuousl
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JAVA](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/RemoveDuplicatesfromSortedArray.java) |                     |
 |[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[pYTHON](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/36.%20Valid%20Sudoku.py)|
 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/38.%20Count%20and%20Say.py) |                     |
+|[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/49.%20Group%20Anagrams.py)|Hash Table|
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/53.%20Maximum%20Subarray.py) |                     |
 |[55. Jump Game](https://leetcode.com/problems/jump-game/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/55.%20Jump%20Game.py)|Greedy|
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/56.%20Merge%20Intervals) |                     |
