@@ -158,6 +158,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[877. Stone Game](https://leetcode.com/problems/stone-game/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/877.%20Stone%20Game.py)||
 |[880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/880.%20Decoded%20String%20at%20Index.py)|Stack|
 |[901. Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/901.%20Online%20Stock%20Span.py)|Stack|
+|[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/905.%20Sort%20Array%20By%20Parity.py)|Array|
 |[922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/922.%20Sort%20Array%20By%20Parity%20II.py)||
 |[925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/925.%20Long%20Pressed%20Name.py)|Two Pointers|
 |[931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/931.%20Minimum%20Falling%20Path%20Sum.py)||
