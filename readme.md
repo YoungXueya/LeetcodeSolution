@@ -148,7 +148,8 @@ I hope I can continue this practice to make me think about questions continuousl
 |[788. Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/788.%20Rotated%20Digits.py)||
 |[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/804.%20Unique%20Morse%20Code%20Words.py)|
 |[811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/811.%20Subdomain%20Visit%20Count.py)|
-|832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/832.%20Flipping%20an%20Image.py)|Array|
+|[830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/830.%20Positions%20of%20Large%20Groups.py)|Two pointers, Array|
+|[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/832.%20Flipping%20an%20Image.py)|Array|
 |[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](https://leetcode.com/problems/backspace-string-compare/)|
 |[849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/849.%20Maximize%20Distance%20to%20Closest%20Person.py)||
 |[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)|Binary Search|
