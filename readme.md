@@ -94,6 +94,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[207. Course Schedule](https://leetcode.com/problems/course-schedule/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/207.%20Course%20Schedule.py)|
 | [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/213.%20House%20Robber%20II.py) | Dynamic Programming |
 |[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/215.%20Kth%20Largest%20Element%20in%20an%20Array.py)||
+|[216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/216.%20Combination%20Sum%20III.py)|BackTracking|
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/217.%20Contains%20Duplicate) |                     |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/submissions/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/219.%20Contains%20Duplicate%20II) |                     |
 |[222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/222.%20Count%20Complete%20Tree%20Nodes.py)|Tree|
