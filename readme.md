@@ -27,6 +27,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)|Binary Search|
 |[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[pYTHON](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/36.%20Valid%20Sudoku.py)|
 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/38.%20Count%20and%20Say.py) |                     |
+|[39. Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/39.%20Combination%20Sum.py)|BackTracking|
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/49.%20Group%20Anagrams.py)|Hash Table|
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/53.%20Maximum%20Subarray.py) |                     |
 |[55. Jump Game](https://leetcode.com/problems/jump-game/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/55.%20Jump%20Game.py)|Greedy|
