@@ -4,7 +4,6 @@ class Solution:
         def dfs(comb,index,remain):
             # print(index,comb)
             if remain==0:
-                comb=sorted(comb)
                 if comb not in res:
                     res.append(comb)
                 return 
