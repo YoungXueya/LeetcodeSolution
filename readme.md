@@ -140,6 +140,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/509.%20Fibonacci%20Number.py)|
 |[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/543.%20Diameter%20of%20Binary%20Tree.py)|Tree|
 |[561. Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/561.%20Array%20Partition%20I.py)|
+|[572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/572.%20Subtree%20of%20Another%20Tree.py)|Tree|
 |[609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/609.%20Find%20Duplicate%20File%20in%20System.py)|String|
 |[617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/617.%20Merge%20Two%20Binary%20Trees.py)|Tree|
 |[636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/636.%20Exclusive%20Time%20of%20Functions.py)|Stack|
