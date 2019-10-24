@@ -194,6 +194,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1190.%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.py)|Stack|
 |[1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1200.%20Minimum%20Absolute%20Difference.py)|Array|
 |[1208. Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1208.%20Get%20Equal%20Substrings%20Within%20Budget.py)|Sliding Window|
+|[1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/1221.%20Split%20a%20String%20in%20Balanced%20Strings.py)|String|
 # [Hackerrank](https://github.com/YoungXueya/LeetcodeSolution/tree/master/hackerrank)
 
 | Question                                                     | Solution                                                     | Tag  |
