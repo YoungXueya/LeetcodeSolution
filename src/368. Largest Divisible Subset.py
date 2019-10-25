@@ -1,4 +1,7 @@
 class Solution:
+    # 1. find the length of the subset
+    # 2. Find the index of the end number
+    # 3. find the subset.
     def largestDivisibleSubset(self, nums: List[int]) -> List[int]:
         res=[]
         if not nums :
