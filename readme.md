@@ -42,6 +42,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[67. Add Binary](https://leetcode.com/problems/add-binary/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/67.%20Add%20Binary.py)||
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)          | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/69.%20Sqrt(x).py) |  Binary Search                   |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/70.%20Climbing%20Stairs.py) |                     |
+|[72. Edit Distance](https://leetcode.com/problems/edit-distance/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/72.%20Edit%20Distance.py)|Dynamic Programming|
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/75.%20Sort%20Colors) |                     |
 |[80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.py)|Two Pointers|
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/83.%20Remove%20Duplicates%20from%20Sorted%20List.py) |                     |
