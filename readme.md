@@ -110,6 +110,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/238.%20Product%20of%20Array%20Except%20Self.py)|
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/242.%20Valid%20Anagram) |                     |
 |[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/257.%20Binary%20Tree%20Paths.py)|Tree,DFS|
+|[258. Add Digits](https://leetcode.com/problems/add-digits/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/258.%20Add%20Digits.py)|Math|
 |[263. Ugly Number](https://leetcode.com/problems/ugly-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/263.%20Ugly%20Number.py)|
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/268.%20Missing%20Number.py) |                     |
 | [274. H-Index](https://leetcode.com/problems/h-index/)       | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/) |                     |
@@ -172,6 +173,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/884.%20Uncommon%20Words%20from%20Two%20Sentences.py)|Hash Table|
 |[901. Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/901.%20Online%20Stock%20Span.py)|Stack|
 |[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/905.%20Sort%20Array%20By%20Parity.py)|Array|
+|[916. Word Subsets](https://leetcode.com/problems/word-subsets/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/916.%20Word%20Subsets.py)|String|
 |[922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/922.%20Sort%20Array%20By%20Parity%20II.py)||
 |[925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/925.%20Long%20Pressed%20Name.py)|Two Pointers|
 |[931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/931.%20Minimum%20Falling%20Path%20Sum.py)||
