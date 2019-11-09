@@ -133,6 +133,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/387.%20First%20Unique%20Character%20in%20a%20String.py)||
 |[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/392.%20Is%20Subsequence.py)||
 |[394. Decode String](https://leetcode.com/problems/decode-string/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/394.%20Decode%20String.py)|Stack|
+|[404. Sum of Left Leaves)(https://leetcode.com/problems/sum-of-left-leaves/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/404.%20Sum%20of%20Left%20Leaves.py)|Tree|
 |[409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/409.%20Longest%20Palindrome.py)||
 |[413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/413.%20Arithmetic%20Slices.py)||
 |[415. Add Strings](https://leetcode.com/problems/add-strings/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/415.%20Add%20Strings.py)||
@@ -140,6 +141,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/434.%20Number%20of%20Segments%20in%20a%20String.py)|String|
 |[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/445.%20Add%20Two%20Numbers%20II.py)|
 |[455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/455.%20Assign%20Cookies.py)|Greedy|
+|[459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/459.%20Repeated%20Substring%20Pattern.py)|String|
 |[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/461.%20Hamming%20Distance.py)|
 |[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/5.%20Longest%20Palindromic%20Substring.py)||
 |[504. Base 7](https://leetcode.com/problems/base-7/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/504.%20Base%207.py)|
