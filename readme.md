@@ -147,6 +147,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/5.%20Longest%20Palindromic%20Substring.py)||
 |[504. Base 7](https://leetcode.com/problems/base-7/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/504.%20Base%207.py)|
 |[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/509.%20Fibonacci%20Number.py)|
+|[530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/530.%20Minimum%20Absolute%20Difference%20in%20BST.py)|Tree|
 |[541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/541.%20Reverse%20String%20II.py)|String|
 |[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/543.%20Diameter%20of%20Binary%20Tree.py)|Tree|
 |[561. Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/561.%20Array%20Partition%20I.py)|
