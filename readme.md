@@ -70,6 +70,7 @@ I hope I can continue this practice to make me think about questions continuousl
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) |                     |
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py) |                     |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/125.%20Valid%20Palindrome.py) |                     |
+|[134. Gas Station](https://leetcode.com/problems/gas-station/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/134.%20Gas%20Station.py)|Greedy|
 |[135. Candy](https://leetcode.com/problems/candy/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/135.%20Candy.py)|Greedy|
 | [136. Single Number](https://leetcode.com/problems/single-number/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/136.%20Single%20Number.py) |                     |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/141.%20Linked%20List%20Cycle.py) |                     |
