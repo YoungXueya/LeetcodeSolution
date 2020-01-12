@@ -154,6 +154,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/509.%20Fibonacci%20Number.py)|
 |[530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/530.%20Minimum%20Absolute%20Difference%20in%20BST.py)|Tree|
 |[541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/541.%20Reverse%20String%20II.py)|String|
+|[542. 01 Matrix](https://leetcode.com/problems/01-matrix/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/542.%2001%20Matrix.py)|DP|
 |[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/543.%20Diameter%20of%20Binary%20Tree.py)|Tree|
 |[561. Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/561.%20Array%20Partition%20I.py)|
 |[572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/572.%20Subtree%20of%20Another%20Tree.py)|Tree|
