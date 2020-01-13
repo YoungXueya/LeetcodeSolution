@@ -168,6 +168,7 @@ I hope I can continue this practice to make me think about questions continuousl
 |[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/739.%20Daily%20Temperatures.py)|
 |[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/746.%20Min%20Cost%20Climbing%20Stairs.py)||
 |[747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py)||
+|[763. Partition Labels](https://leetcode.com/problems/partition-labels/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/763.%20Partition%20Labels.py)|Two pointers|
 |[788. Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/788.%20Rotated%20Digits.py)||
 |[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/804.%20Unique%20Morse%20Code%20Words.py)|
 |[811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Python](https://github.com/YoungXueya/LeetcodeSolution/blob/master/src/811.%20Subdomain%20Visit%20Count.py)|
